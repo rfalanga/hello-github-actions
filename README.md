@@ -7,6 +7,9 @@
 
 # Hello GitHub Actions
 
+### Well, that was dumb
+I made my changes to the main branch, so I'm making some here.
+
 _Create a GitHub Action and use it in a workflow._
 
 <!--
