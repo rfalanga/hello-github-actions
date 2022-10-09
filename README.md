@@ -108,6 +108,9 @@ Next, we need to specify jobs to run.
 In this step of our exercise, we will add a "build" job. We will specify `ubuntu-latest` as the fastest and cheapest job runner available. If you want to read more about why we'll use that runner, see the code explanation for the line `runs-on: ubuntu-latest` in the "[Understanding the workflow file](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions#understanding-the-workflow-file)" article.
 
 ### :keyboard: Activity: Add a job to your workflow file
+  
+  ### My own addition
+  😄
 
 1. Open your `welcome.yml` file. 
 2. Update the contents of the file to:
